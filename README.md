@@ -18,3 +18,6 @@ Controls:
 - **Left mouse button:** uncover tile
 - **Right mouse button:** place/remove flag
 - **Middle mouse button:** uncover all surrounding tiles
+
+Install:
+- **run:** wget https://raw.githubusercontent.com/bennybest7/CCMines/refs/heads/main/ccmines.lua
